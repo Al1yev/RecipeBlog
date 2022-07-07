@@ -23,5 +23,13 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.19"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Al1yev/RecipeBlog.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Al1yev/RecipeBlog/issues"
+  },
+  "homepage": "https://github.com/Al1yev/RecipeBlog#readme"
 }
